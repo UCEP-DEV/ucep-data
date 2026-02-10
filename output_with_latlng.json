@@ -12126,5 +12126,24 @@
     ],
     "lat": 39.8026389,
     "lng": -104.6915
-  }
+  },
+  {
+  "address": "2490 S 7600 W MAGNA, UT 84044",
+  "state": "UT",
+  "zip": "84044",
+  "locations": [
+    {
+      "facility_number": "836",
+      "facility_name": "MAGNA",
+      "facility_abbr": "MAGA",
+      "status": "STATION",
+      "region": "",
+      "district": "",
+      "phone": "8019989141",
+      "fax": ""
+    }
+  ],
+  "lat": 40.71715,
+  "lng": -112.072686
+}
 ]
