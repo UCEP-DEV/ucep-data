@@ -12050,5 +12050,81 @@
     ],
     "lat": 43.190378,
     "lng": -88.0958113
+  },
+  {
+    "address": "25-53 TALMADGE ROAD EDISON, NJ 08817",
+    "state": "NJ",
+    "zip": "08817",
+    "locations": [
+      {
+        "facility_number": "72",
+        "facility_name": "METUCHEN",
+        "facility_abbr": "METU",
+        "status": "HUB",
+        "region": "",
+        "district": "",
+        "phone": "",
+        "fax": ""
+      }
+    ],
+    "lat": 40.52822441597765,
+    "lng": -74.38893253519261
+  },
+  {
+    "address": "6000 RIVERSIDE DR KEASBEY, NJ 08832",
+    "state": "NJ",
+    "zip": "08832",
+    "locations": [
+      {
+        "facility_number": "89",
+        "facility_name": "WOODBRIDGE",
+        "facility_abbr": "WOOD",
+        "status": "HUB",
+        "region": "",
+        "district": "",
+        "phone": "",
+        "fax": ""
+      }
+    ],
+    "lat": 40.50681114406726,
+    "lng": -74.32580600855421
+  },
+  {
+    "address": "1000 WILLOWBROOK ROAD NORTHAMPTON, PA 18067",
+    "state": "PA",
+    "zip": "18067",
+    "locations": [
+      {
+        "facility_number": "182",
+        "facility_name": "LEHIGH VALLEY",
+        "facility_abbr": "LEHI",
+        "status": "HUB",
+        "region": "",
+        "district": "",
+        "phone": "",
+        "fax": ""
+      }
+    ],
+    "lat": 40.66923892138754,
+    "lng": -75.4502461841744
+  },
+  {
+    "address": "5805 JACKSON GAP ST AURORA, CO 80019",
+    "state": "CO",
+    "zip": "80019",
+    "locations": [
+      {
+        "facility_number": "800",
+        "facility_name": "LOCATION 800",
+        "facility_abbr": "LOC800",
+        "status": "STATION",
+        "region": "",
+        "district": "",
+        "phone": "",
+        "fax": ""
+      }
+    ],
+    "lat": 39.8026389,
+    "lng": -104.6915
   }
 ]
